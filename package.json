@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "devxpress",
+  "version": "1.0.0",
+  "description": "🚀 Fast and minimal Express.js applications with Node.js. 📦 A hub for building scalable APIs and web apps using Express.",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samir20-23/DevXpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samir20-23/DevXpress/issues"
+  },
+  "homepage": "https://github.com/samir20-23/DevXpress#readme"
+}
